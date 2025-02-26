@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import hrone from "public/images/projects/Samayra.jpg";
+import hrone from "public/images/projects/samayra.jpg";
 import hrthree from "public/images/projects/lamaya.jpg";
 import hrfour from "public/images/projects/lech1.jpg";
 import hrfive from "public/images/projects/mialma1.png";
